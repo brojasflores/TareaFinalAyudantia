@@ -6,3 +6,5 @@ Instrucciones de instalación:
 2-Modificar el archivo database.php, con los datos correspondientes al script entregado. 
 3-Ejecutar la maquina virtual de laravel,con el comando php artisan serve desde el terminal, para inicializar el proyecto.
 4-Para acceder al proyecto, hacerlo desde la direccion localhost/
+
+NOTA: Se debe agregar manualmente la carpeta vendor.
